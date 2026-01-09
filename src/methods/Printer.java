@@ -7,7 +7,7 @@ public class Printer {
      * @Returns: nothing
      * @Parameters: no parameters
      */
-    public void printGreeting(){
+    public static void printGreeting(){
         System.out.println("Hello from your first method!");
     }
 
